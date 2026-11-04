@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Здравей, GitHub!");
+            Console.WriteLine("Здравей, училище!");
         }
     }
 }
