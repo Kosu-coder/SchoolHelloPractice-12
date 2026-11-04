@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Здравей, училище!");
+            Console.Write("Как се казваш? ");
+            string? name = Console.ReadLine();
+            Console.WriteLine($"Здравей, {name}!");
         }
     }
 }
